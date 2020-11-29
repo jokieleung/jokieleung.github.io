@@ -66,6 +66,10 @@ default_category: uncategorized
 category_map:
 tag_map:
 
+        #sitemap: 
+        #  path: sitemap.xml
+        #baidusitemap:
+        #  path: baidusitemap.xml
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
 meta_generator: true
@@ -95,12 +99,13 @@ ignore:
 ## Themes: https://hexo.io/themes/
 #theme: hiker 
 #theme: clean-blog 
-theme: cactus 
+#theme: cactus 
+theme: Academia
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:jokieleung/jokieleung.github.io.git 
-  #repo: https://github.com/jokieleung/jokieleung.github.io.git 
+  #repo: git@github.com:jokieleung/jokieleung.github.io.git 
+  repo: https://github.com/jokieleung/jokieleung.github.io.git 
   branch: master 
