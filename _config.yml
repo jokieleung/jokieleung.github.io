@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Jokie Leung 
+title: Zujie Liang
 subtitle: Be better. 
 description: '' 
 keywords:
-author: Jokieleung
+author: Zujie Liang
 language: en
 timezone: ''
 
@@ -106,6 +106,6 @@ theme: Academia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  #repo: git@github.com:jokieleung/jokieleung.github.io.git 
+  # repo: git@github.com:jokieleung/jokieleung.github.io.git 
   repo: https://github.com/jokieleung/jokieleung.github.io.git 
   branch: master 
