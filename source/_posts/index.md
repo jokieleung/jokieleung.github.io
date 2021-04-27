@@ -17,10 +17,10 @@ Now, I am a Research Intern at **<u>Microsoft</u>**, working on Conversation AI.
 
 - LPF: A Language-Prior Feedback Objective Function for De-biased Visual Question Answering
 <u>**Zujie Liang**</u>, Haifeng Hu and Jiaying Zhu.
-    **SIGIR 2021**. [[code](https://github.com/jokieleung/LPF-VQA)][paper(coming soon)]
+    **SIGIR 2021**. [[paper]](attaches/LPF_SIGIR_2021_camera_ready_version.pdf)[[code]](https://github.com/jokieleung/LPF-VQA)
 
 - Learning to Contrast the Counterfactual Samples for Robust Visual Question Answering
 <u>**Zujie Liang**</u>, Weitao Jiang and Haifeng Hu.
-    **EMNLP 2020**. [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.265.pdf)]
+    **EMNLP 2020**. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.265.pdf)[[slides]](attaches/Learning_to_Contrast_EMNLP_2020_slides.pdf)
 
 
