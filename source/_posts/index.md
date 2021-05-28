@@ -17,7 +17,7 @@ Now, I am a Research Intern at **<u>Microsoft</u>**, working on Conversation AI.
 
 - Maria: A Visual Experience Powered Conversational Agent
 <u>**Zujie Liang**</u>\*, Huang Hu\*, Can Xu, Chongyang Tao, Xiubo Geng, Yining Chen, Fan Liang and Daxin Jiang.
-    **ACL 2021**. [paper(coming soon!)]
+    **ACL 2021**. [[paper]](https://arxiv.org/abs/2105.13073)
 
 - LPF: A Language-Prior Feedback Objective Function for De-biased Visual Question Answering
 <u>**Zujie Liang**</u>, Haifeng Hu and Jiaying Zhu.
