@@ -17,7 +17,7 @@ Now, I am a Research Intern at **<u>Microsoft</u>**, working on Conversation AI.
 
 - Maria: A Visual Experience Powered Conversational Agent
 <u>**Zujie Liang**</u>\*, Huang Hu\*, Can Xu, Chongyang Tao, Xiubo Geng, Yining Chen, Fan Liang and Daxin Jiang.
-    **ACL 2021**. [[paper]](https://arxiv.org/abs/2105.13073)
+    **ACL 2021**. [[paper]](https://arxiv.org/abs/2105.13073)[[code]](https://github.com/jokieleung/Maria)
 
 - LPF: A Language-Prior Feedback Objective Function for De-biased Visual Question Answering
 <u>**Zujie Liang**</u>, Haifeng Hu and Jiaying Zhu.
@@ -25,6 +25,6 @@ Now, I am a Research Intern at **<u>Microsoft</u>**, working on Conversation AI.
 
 - Learning to Contrast the Counterfactual Samples for Robust Visual Question Answering
 <u>**Zujie Liang**</u>, Weitao Jiang, Haifeng Hu and Jiaying Zhu.
-    **EMNLP 2020**. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.265.pdf)[[slides]](attaches/Learning_to_Contrast_EMNLP_2020_slides.pdf)
+    **EMNLP 2020**. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.265.pdf)[[slides]](attaches/Learning_to_Contrast_EMNLP_2020_slides.pdf)[[code]](https://github.com/jokieleung/CL-VQA)
 
 
