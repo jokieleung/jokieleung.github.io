@@ -11,7 +11,7 @@ academia: true
 
 
 
-My name is Zujie Liang (梁祖杰). I'm a second-year master of philosophy student at [Sun Yat-Sen University (SYSU)](https://www.sysu.edu.cn). I am currently a a Research Intern at **<u>Microsoft</u>**, working on Conversation AI. 
+My name is Zujie Liang (梁祖杰). I'm a second-year master of philosophy student at [Sun Yat-Sen University (SYSU)](https://www.sysu.edu.cn). I am currently a Research Intern at **<u>Microsoft</u>**, working on Conversation AI. 
 
 My research interests include Deep Learning algorithms and applications, especially Natural Language Processing/Generation, De-biased Learning and Computer Vision. 
 
