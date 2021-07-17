@@ -11,11 +11,11 @@ academia: true
 
 
 
-My name is Zujie Liang (梁祖杰). I'm a second-year master of philosophy student at [Sun Yat-Sen University (SYSU)](https://www.sysu.edu.cn). I am currently a Research Intern at **<u>Microsoft</u>**, working on Conversation AI. 
+My name is Zujie Liang (梁祖杰). I'm a second-year master of science student at [Sun Yat-Sen University (SYSU)](https://www.sysu.edu.cn). I am currently a Research Intern at **<u>Microsoft</u>**, working on Conversation AI. 
 
 My research interests include Deep Learning algorithms and applications, especially Natural Language Processing/Generation, De-biased Learning and Computer Vision. 
 
-**Note**: I'm in the job market now (will obtain M.Eng. degree in 2022), please check my [CV](attaches/jokie_resume_EN.pdf) for latest update and feel free to contact me via [E-mail](mailto:jokieleung@outlook.com)!
+**Note**: I'm in the job market now (will obtain M.S. degree in 2022), please check my [CV](attaches/jokie_resume_EN.pdf) for latest update and feel free to contact me via [E-mail](mailto:jokieleung@outlook.com)!
 
 
 
