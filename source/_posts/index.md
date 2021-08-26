@@ -23,6 +23,7 @@ My research interests include Deep Learning algorithms and applications, especia
 
 
 
+- [08/2021] One paper on recommender dialogue system is accepted by EMNLP 2021.
 - [06/2021] I am offered an ACM SIGIR 2021 Student Travel Grant.
 - [06/2021] I serve as PC Member for NLPCC 2021.
 - [05/2021] One paper on visual knowledge powered conversational agent is accepted by ACL 2021.
@@ -36,13 +37,16 @@ My research interests include Deep Learning algorithms and applications, especia
 
 
 - Maria: A Visual Experience Powered Conversational Agent
-  <u>**Zujie Liang**</u>\*, Huang Hu\*, Can Xu, Chongyang Tao, Xiubo Geng, Yining Chen, Fan Liang and Daxin Jiang.
+  <u>**Zujie Liang**</u>\*, Huang Hu\*, Can Xu, Chongyang Tao, Xiubo Geng, Yining Chen, Fan Liang, Daxin Jiang.
     **ACL 2021**. [[paper]](https://arxiv.org/abs/2105.13073)[[code]](https://github.com/jokieleung/Maria)
+- Learning Neural Templates for Recommender Dialogue System
+  <u>**Zujie Liang**</u>, Huang Hu, Can Xu, Jian Miao, Yingying He, Yining Chen, Xiubo Geng, Fan Liang, Daxin Jiang
+    **EMNLP 2021**. [paper (coming soon)]
 - LPF: A Language-Prior Feedback Objective Function for De-biased Visual Question Answering
-  <u>**Zujie Liang**</u>, Haifeng Hu and Jiaying Zhu.
+  <u>**Zujie Liang**</u>, Haifeng Hu, Jiaying Zhu.
     **SIGIR 2021**. [[paper]](https://arxiv.org/abs/2105.14300)[[code]](https://github.com/jokieleung/LPF-VQA)
 - Learning to Contrast the Counterfactual Samples for Robust Visual Question Answering
-  <u>**Zujie Liang**</u>, Weitao Jiang, Haifeng Hu and Jiaying Zhu.
+  <u>**Zujie Liang**</u>, Weitao Jiang, Haifeng Hu, Jiaying Zhu.
     **EMNLP 2020**. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.265.pdf)[[slides]](attaches/Learning_to_Contrast_EMNLP_2020_slides.pdf)[[code]](https://github.com/jokieleung/CL-VQA)
 
 # Work Experiences #
