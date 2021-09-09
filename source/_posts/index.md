@@ -40,8 +40,8 @@ My research interests include Deep Learning algorithms and applications, especia
   <u>**Zujie Liang**</u>\*, Huang Hu\*, Can Xu, Chongyang Tao, Xiubo Geng, Yining Chen, Fan Liang, Daxin Jiang.
     **ACL 2021**. [[paper]](https://arxiv.org/abs/2105.13073)[[slides]](attaches/ACL-2021-slides.pdf)[[code]](https://github.com/jokieleung/Maria)
 - Learning Neural Templates for Recommender Dialogue System
-  <u>**Zujie Liang**</u>, Huang Hu, Can Xu, Jian Miao, Yingying He, Yining Chen, Xiubo Geng, Fan Liang, Daxin Jiang
-    **EMNLP 2021**. [paper (To appear)] [[code]](https://github.com/jokieleung/NTRD)
+  <u>**Zujie Liang**</u>\*, Huang Hu\*, Can Xu, Jian Miao, Yingying He, Yining Chen, Xiubo Geng, Fan Liang, Daxin Jiang
+    **EMNLP 2021**. [paper (to appear)] [[code]](https://github.com/jokieleung/NTRD)
 - LPF: A Language-Prior Feedback Objective Function for De-biased Visual Question Answering
   <u>**Zujie Liang**</u>, Haifeng Hu, Jiaying Zhu.
     **SIGIR 2021**. [[paper]](https://arxiv.org/abs/2105.14300)[[slides]](attaches/LPF_SIGIR21_slides.pdf)[[code]](https://github.com/jokieleung/LPF-VQA)
