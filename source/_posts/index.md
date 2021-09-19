@@ -15,7 +15,7 @@ My name is Zujie Liang (梁祖杰). I'm a second-year master of science student 
 
 My research interests include Deep Learning algorithms and applications, especially Natural Language Processing/Generation, De-biased Learning and Computer Vision. 
 
-**Note**: I'm in the job market now (will obtain M.S. degree in 2022), please check my [CV](attaches/jokie_resume_EN.pdf) for latest update and feel free to contact me via [E-mail](mailto:jokieleung@outlook.com)!
+**Note**: I'm in the job market now (will obtain M.S. degree in 2022), please check my <a href="attaches/jokie_resume_EN.pdf" target="_blank">CV</a> for latest update and feel free to contact me via [E-mail](mailto:jokieleung@outlook.com)!
 
 
 
@@ -55,9 +55,9 @@ My research interests include Deep Learning algorithms and applications, especia
 
 - Microsoft,
 Research Intern, Oct. 2020 - now. 
-- MOMO (陌陌), Beijing,
+- MOMO,
 Computer Vision Algorithm Intern, Apr. 2019 - Sept. 2019. 
-- Huawei, Beijing,
+- Huawei,
 Software Development Engineear Intern, Jun. 2018 - Sept. 2018. 
 
 
