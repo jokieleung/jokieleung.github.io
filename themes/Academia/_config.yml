@@ -11,7 +11,9 @@ since: 2020
 # #title 为页内跳转，单页模式
 # 可以选择外链或其他页面
 menu:
+  News: /#News
   Publications: /#Publications
+  Experiences: /#Work-Experiences
 # About: /
 
 # flink picture will load if avator link calls on error

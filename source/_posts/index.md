@@ -11,11 +11,11 @@ academia: true
 
 
 
-My name is Zujie Liang (梁祖杰). I'm a second-year master of science student at [Sun Yat-Sen University (SYSU)](https://www.sysu.edu.cn). I am currently a Research Intern at **<u>Microsoft</u>**, working on Conversation AI. 
+My name is Zujie Liang (梁祖杰). I'm a third-year M.Phil. student at [Sun Yat-Sen University (SYSU)](https://www.sysu.edu.cn). I am currently a Research Intern at **Microsoft**, working on Conversation AI. 
 
-My research interests include Deep Learning algorithms and applications, especially Natural Language Processing/Generation, De-biased Learning and Computer Vision. 
+My previous research broadly lies at the intersection of Natural Language Processing and Computer Vision, with a focus on three areas: 1) multimodal bias reduction; 2) open-ended Conversational AI; 3) flexible/controllable text generation. I am very interested in understanding various human-centric properties of AI models, such as interpretability, generalization, causality, fairness and bias.
 
-**Note**: I'm in the job market now (will obtain M.S. degree in 2022), please check my <a href="attaches/jokie_resume_EN.pdf" target="_blank">CV</a> for latest update and feel free to contact me via [E-mail](mailto:jokieleung@outlook.com)!
+**Note:** I am open to discussion or collaboration. I am also actively looking for a Ph.D. position. Please check my <a href="attaches/jokie_resume_EN.pdf" target="_blank">CV</a> for latest update and drop me an [E-mail](mailto:jokieleung@outlook.com) if you’re interested.
 
 
 
@@ -49,6 +49,8 @@ My research interests include Deep Learning algorithms and applications, especia
   <u>**Zujie Liang**</u>, Weitao Jiang, Haifeng Hu, Jiaying Zhu.
     **EMNLP 2020**. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.265.pdf)[[slides]](attaches/Learning_to_Contrast_EMNLP_2020_slides.pdf)[[code]](https://github.com/jokieleung/CL-VQA)
 
+
+
 # Work Experiences #
 
 
@@ -68,3 +70,13 @@ Software Development Engineear Intern, Jun. 2018 - Sept. 2018.
 
 - Program Committee: NLPCC 2021
 - Sub-Reviewer:  IJCAI 2021
+
+
+
+# Miscellanous #
+
+
+
+- In my spare time, I maintain [Awesome-Visual-Question-Answering](https://github.com/jokieleung/awesome-visual-question-answering), which is a curated list of papers in the field of Visual QA (360+ stars now). 
+- I'm a big fan of basketball/NBA. I am impressed by the application progress of AI in [basketball](https://becominghuman.ai/5-game-changing-computer-vision-applications-in-sports-5f02ec35529b), such as the [HomeCourt](https://www.homecourt.ai/) APP.
+- [Silicon Valley](https://www.imdb.com/title/tt2575988/) is the funniest TV series I have ever watched.
