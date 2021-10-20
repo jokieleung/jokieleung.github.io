@@ -15,7 +15,7 @@ My name is Zujie Liang (梁祖杰). I'm a third-year M.Phil. student at [Sun Yat
 
 My previous research broadly lies at the intersection of Natural Language Processing and Computer Vision, with a focus on three areas: 1) multimodal bias reduction; 2) open-ended Conversational AI; 3) flexible/controllable text generation. I am very interested in understanding various human-centric properties of AI models, such as interpretability, generalization, causality, fairness and bias.
 
-**Note:** I am open to discussion or collaboration. I am also actively looking for a Ph.D. position. Please check my <a href="attaches/jokie_resume_EN.pdf" target="_blank">CV</a> for latest update and drop me an [E-mail](mailto:jokieleung@outlook.com) if you’re interested.
+I am open to discussion or collaboration. I am also actively looking for Ph.D. or job opportunities. Please check my <a href="attaches/jokie_resume_EN.pdf" target="_blank">CV</a> for latest update and drop me an [E-mail](mailto:jokieleung@outlook.com) if you’re interested.
 
 
 
