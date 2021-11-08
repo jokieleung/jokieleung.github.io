@@ -11,7 +11,7 @@ academia: true
 
 
 
-My name is Zujie Liang (梁祖杰). I'm a third-year M.Phil. student at [Sun Yat-Sen University (SYSU)](https://www.sysu.edu.cn). I am currently a Research Intern at **Microsoft**, working on Conversation AI. 
+My name is Zujie Liang (梁祖杰). I'm a third-year M.Phil. student at [Sun Yat-Sen University (SYSU)](https://www.sysu.edu.cn).
 
 My previous research broadly lies at the intersection of Natural Language Processing and Computer Vision, with a focus on three areas: 1) multimodal bias reduction; 2) open-ended Conversational AI; 3) flexible/controllable text generation. I am very interested in understanding various human-centric properties of AI models, such as interpretability, generalization, causality, fairness and bias.
 
@@ -56,9 +56,9 @@ I am open to discussion or collaboration. I am also actively looking for Ph.D. o
 
 
 - Microsoft,
-Research Intern, Oct. 2020 - now. 
-- MOMO,
-Computer Vision Algorithm Intern, Apr. 2019 - Sept. 2019. 
+Research Intern, Oct. 2020 - June. 2021. 
+- Alibaba,
+Ads Algorithm Intern, June. 2021 - Sept. 2021. 
 - Huawei,
 Software Development Engineear Intern, Jun. 2018 - Sept. 2018. 
 
