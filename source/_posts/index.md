@@ -15,7 +15,7 @@ My name is Zujie Liang (梁祖杰). I'm a third-year M.Phil. student at [Sun Yat
 
 My previous research broadly lies at the intersection of Natural Language Processing and Computer Vision, with a focus on three areas: 1) multimodal bias reduction; 2) open-ended Conversational AI; 3) flexible/controllable text generation. I am very interested in understanding various human-centric properties of AI models, such as interpretability, generalization, causality, fairness and bias.
 
-I am open to discussion or collaboration. I am also actively looking for Ph.D. or job opportunities. Please check my <a href="attaches/jokie_resume_EN.pdf" target="_blank">CV</a> for latest update and drop me an [E-mail](mailto:jokieleung@outlook.com) if you’re interested.
+I am open to discussion or collaboration. Please check my <a href="attaches/Zujie_Liang_CV.pdf" target="_blank">CV</a> for latest update and drop me an [E-mail](mailto:jokieleung@outlook.com) if you’re interested.
 
 
 
@@ -23,6 +23,7 @@ I am open to discussion or collaboration. I am also actively looking for Ph.D. o
 
 
 
+- [04/2022] One paper is accepted by ICMR 2022.
 - [08/2021] One paper on recommender dialogue system is accepted by EMNLP 2021.
 - [06/2021] I am offered an ACM SIGIR 2021 Student Travel Grant.
 - [06/2021] I serve as PC Member for NLPCC 2021.
@@ -48,7 +49,9 @@ I am open to discussion or collaboration. I am also actively looking for Ph.D. o
 - Learning to Contrast the Counterfactual Samples for Robust Visual Question Answering
   <u>**Zujie Liang**</u>, Weitao Jiang, Haifeng Hu, Jiaying Zhu.
     **EMNLP 2020**. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.265.pdf)[[slides]](attaches/Learning_to_Contrast_EMNLP_2020_slides.pdf)[[code]](https://github.com/jokieleung/CL-VQA)
-
+- TransPCC: Towards Deep Point Cloud Compression via Transformers
+  <u>**Zujie Liang**</u>, Fan Liang.
+    **ICMR 2022**. [paper] 
 
 
 # Work Experiences #
@@ -77,6 +80,6 @@ Software Development Engineear Intern, Jun. 2018 - Sept. 2018.
 
 
 
-- In my spare time, I maintain [Awesome-Visual-Question-Answering](https://github.com/jokieleung/awesome-visual-question-answering), which is a curated list of papers in the field of Visual QA (360+ stars now). 
+- In my spare time, I maintain [Awesome-Visual-Question-Answering](https://github.com/jokieleung/awesome-visual-question-answering), which is a curated list of papers in the field of Visual QA (430+ stars now). 
 - I'm a big fan of basketball/NBA. I am impressed by the application progress of AI in [basketball](https://becominghuman.ai/5-game-changing-computer-vision-applications-in-sports-5f02ec35529b), such as the [HomeCourt](https://www.homecourt.ai/) APP.
 - [Silicon Valley](https://www.imdb.com/title/tt2575988/) is the funniest TV series I have ever watched.

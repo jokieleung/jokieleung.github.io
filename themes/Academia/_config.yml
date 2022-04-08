@@ -48,7 +48,7 @@ e_social_links:
 # CV download link
 cv_dl:
   enable: true
-  dir: attaches/jokie_resume_EN.pdf 
+  dir: attaches/Zujie_Liang_CV.pdf 
   description: Curriculum Vitae
 
 # Box-shadow
