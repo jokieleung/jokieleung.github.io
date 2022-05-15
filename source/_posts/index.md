@@ -15,7 +15,7 @@ My name is Zujie Liang (梁祖杰). I'm a third-year M.Phil. student at [Sun Yat
 
 My previous research broadly lies at the intersection of Natural Language Processing and Computer Vision, with a focus on three areas: 1) multimodal bias reduction; 2) open-ended Conversational AI; 3) flexible/controllable text generation. I am very interested in understanding various human-centric properties of AI models, such as interpretability, generalization, causality, fairness and bias.
 
-I am open to discussion or collaboration. Please check my <a href="attaches/Zujie_Liang_CV.pdf" target="_blank">CV</a> for latest update and drop me an [E-mail](mailto:jokieleung@outlook.com) if you’re interested.
+I'm always open to discussion or collaboration. Please check my <a href="attaches/Zujie_Liang_CV.pdf" target="_blank">CV</a> for latest update and drop me an [E-mail](mailto:jokieleung@outlook.com) if you’re interested.
 
 
 
@@ -51,7 +51,7 @@ I am open to discussion or collaboration. Please check my <a href="attaches/Zuji
     **EMNLP 2020**. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.265.pdf)[[slides]](attaches/Learning_to_Contrast_EMNLP_2020_slides.pdf)[[code]](https://github.com/jokieleung/CL-VQA)
 - TransPCC: Towards Deep Point Cloud Compression via Transformers
   <u>**Zujie Liang**</u>, Fan Liang.
-    **ICMR 2022**. [paper] 
+    **ICMR 2022**. [[paper]](attaches/TransPCC_ICMR22.pdf)[[code]](https://github.com/jokieleung/TransPCC)
 
 
 # Work Experiences #
@@ -71,8 +71,7 @@ Software Development Engineear Intern, Jun. 2018 - Sept. 2018.
 
 
 
-- Program Committee: NLPCC 2021
-- Sub-Reviewer:  IJCAI 2021
+- Reviewer: ACL 2022, NLPCC 2022, NLPCC 2021, IJCAI 2021
 
 
 

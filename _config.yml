@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://jokieleung.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -70,6 +70,13 @@ sitemap:
   path: sitemap.xml
 baidusitemap:
   path: baidusitemap.xml
+
+baidu_url_submit:
+  count: 1
+  host: jokieleung.github.io
+  token: 1Ci3Lad4uqqA6Mpj
+  path: baidu_urls.txt
+  
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
 meta_generator: true
@@ -105,7 +112,8 @@ theme: Academia
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: git@github.com:jokieleung/jokieleung.github.io.git 
+  - type: git
+    repo: git@github.com:jokieleung/jokieleung.github.io.git 
   # repo: https://github.com/jokieleung/jokieleung.github.io.git 
-  branch: master 
+    branch: master
+  - type: baidu_url_submitter
