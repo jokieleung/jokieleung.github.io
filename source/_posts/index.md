@@ -11,9 +11,9 @@ academia: true
 
 
 
-My name is Zujie Liang (梁祖杰). I'm a third-year M.Phil. student at [Sun Yat-Sen University (SYSU)](https://www.sysu.edu.cn).
+My name is Zujie Liang (梁祖杰). I am currently a researcher at [Ant Group](https://www.antgroup.com/en) (FinTech giant in China). Before that, I obtained my M.S. degree from [Sun Yat-Sen University (SYSU)](https://www.sysu.edu.cn).
 
-My previous research broadly lies at the intersection of Natural Language Processing and Computer Vision, with a focus on three areas: 1) multimodal bias reduction; 2) open-ended Conversational AI; 3) flexible/controllable text generation. I am very interested in understanding various human-centric properties of AI models, such as interpretability, generalization, causality, fairness and bias.
+Now I am working on supply chain mining with NLP and Knowledge Graph (KG) techniques. My previous research broadly lies at the intersection of Natural Language Processing and Computer Vision, with a focus on three areas: 1) multimodal bias reduction; 2) open-ended Conversational AI; 3) flexible/controllable text generation. I am very interested in understanding various human-centric properties of AI models, such as interpretability, generalization, causality, fairness and bias.
 
 I'm always open to discussion or collaboration. Please check my <a href="attaches/Zujie_Liang_CV.pdf" target="_blank">CV</a> for latest update and drop me an [E-mail](mailto:jokieleung@outlook.com) if you’re interested.
 
@@ -23,6 +23,8 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
 
 
 
+- [05/2023] One paper about Lottery Prompt Tuning is accepted by ACL 2023.
+- [07/2022] I start my journey at Ant Group.
 - [04/2022] One paper is accepted by ICMR 2022.
 - [08/2021] One paper on recommender dialogue system is accepted by EMNLP 2021.
 - [06/2021] I am offered an ACM SIGIR 2021 Student Travel Grant.
@@ -37,6 +39,9 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
 
 
 
+- Prompts Can Play Lottery Tickets Well: Achieving Lifelong Learning Information Extraction via Lottery Prompt Tuning
+  <u>**Zujie Liang**</u>, Feng Wei, Jie Yin, Yuxi Qian, Zhenghong Hao, Bing Han.
+    **ACL 2023**. [paper and code (soon)]
 - Maria: A Visual Experience Powered Conversational Agent
   <u>**Zujie Liang**</u>\*, Huang Hu\*, Can Xu, Chongyang Tao, Xiubo Geng, Yining Chen, Fan Liang, Daxin Jiang.
     **ACL 2021**. [[paper]](https://arxiv.org/abs/2105.13073)[[slides]](attaches/ACL-2021-slides.pdf)[[code]](https://github.com/jokieleung/Maria)
@@ -58,12 +63,14 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
 
 
 
+- Ant Group,
+  Researcher, July. 2022 - Present. 
 - Microsoft,
-Research Intern, Oct. 2020 - June. 2021. 
+  Research Intern, Oct. 2020 - June. 2021. 
 - Alibaba,
-Ads Algorithm Intern, June. 2021 - Sept. 2021. 
+  Ads Algorithm Intern, June. 2021 - Sept. 2021. 
 - Huawei,
-Software Development Engineear Intern, Jun. 2018 - Sept. 2018. 
+  Software Development Engineear Intern, Jun. 2018 - Sept. 2018. 
 
 
 
@@ -71,7 +78,7 @@ Software Development Engineear Intern, Jun. 2018 - Sept. 2018.
 
 
 
-- Reviewer: ACL 2022, NLPCC 2022, NLPCC 2021, IJCAI 2021
+- Reviewer: ICLR 2023, EACL 2023, ACL 2022, NLPCC 2022, NLPCC 2021, IJCAI 2021
 
 
 
@@ -79,6 +86,6 @@ Software Development Engineear Intern, Jun. 2018 - Sept. 2018.
 
 
 
-- In my spare time, I maintain [Awesome-Visual-Question-Answering](https://github.com/jokieleung/awesome-visual-question-answering), which is a curated list of papers in the field of Visual QA (430+ stars now). 
-- I'm a big fan of basketball/NBA. I am impressed by the application progress of AI in [basketball](https://becominghuman.ai/5-game-changing-computer-vision-applications-in-sports-5f02ec35529b), such as the [HomeCourt](https://www.homecourt.ai/) APP.
-- [Silicon Valley](https://www.imdb.com/title/tt2575988/) is the funniest TV series I have ever watched.
+- In my spare time, I maintain [Awesome-Visual-Question-Answering](https://github.com/jokieleung/awesome-visual-question-answering), which is a curated list of papers in the field of Visual QA (570+ stars now). 
+- Fan of basketball/NBA. I am impressed by the application progress of AI in [basketball](https://becominghuman.ai/5-game-changing-computer-vision-applications-in-sports-5f02ec35529b), such as the [HomeCourt](https://www.homecourt.ai/) APP.
+- [Silicon Valley](https://www.imdb.com/title/tt2575988/) is the funniest TV series.

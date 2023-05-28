@@ -114,6 +114,6 @@ theme: Academia
 deploy:
   - type: git
     repo: git@github.com:jokieleung/jokieleung.github.io.git 
-  # repo: https://github.com/jokieleung/jokieleung.github.io.git 
+    # repo: https://github.com/jokieleung/jokieleung.github.io.git 
     branch: master
   - type: baidu_url_submitter
