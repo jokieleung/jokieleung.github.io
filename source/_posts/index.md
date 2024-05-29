@@ -41,6 +41,10 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
 
 
 
+- SLMRec: Empowering Small Language Models for Sequential Recommendation
+  Wujiang Xu, <u>**Zujie Liang**</u>, Jiaojiao Han, Xuying Ning, Wenfang Lin, Linxun Chen, Feng Wei, Yongfeng Zhang
+    **preprint**. [[paper]](https://arxiv.org/abs/2405.17890)
+
 - CR-LLM: A Dataset and Optimization for Concept Reasoning of Large Language Models
   Nianqi Li, Jingping Liu, Sihang Jiang, Haiyun Jiang, Yanghua Xiao, Jiaqing Liang, <u>**Zujie Liang**</u>, Feng Wei, Jinglei Chen, Zhenghong Hao, Bing Han
     **Findings of ACL 2024**. [paper (coming soon.)]
