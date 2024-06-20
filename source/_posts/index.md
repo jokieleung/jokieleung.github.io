@@ -41,6 +41,10 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
 
 
 
+- Teaching Large Language Models to Express Knowledge Boundary from Their Own Signals
+  Lida Chen, <u>**Zujie Liang**</u>, Xintao Wang, Jiaqing Liang, Yanghua Xiao, Feng Wei, Jinglei Chen, Zhenghong Hao, Bing Han, Wei Wang
+    **preprint**. [[paper]](https://arxiv.org/abs/2406.10881)
+
 - SLMRec: Empowering Small Language Models for Sequential Recommendation
   Wujiang Xu, <u>**Zujie Liang**</u>, Jiaojiao Han, Xuying Ning, Wenfang Lin, Linxun Chen, Feng Wei, Yongfeng Zhang
     **preprint**. [[paper]](https://arxiv.org/abs/2405.17890)
