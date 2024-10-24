@@ -13,7 +13,7 @@ academia: true
 
 My name is Zujie Liang (梁祖杰). I am currently a researcher at [Ant Group](https://www.antgroup.com/en) (FinTech giant in China). Before that, I obtained my M.S. degree from [Sun Yat-Sen University (SYSU)](https://www.sysu.edu.cn) in 2022.
 
-Now I am working on supply chain mining with LLMs and Knowledge Graph (KG) techniques. My previous research broadly lies at the intersection of Natural Language Processing and Computer Vision, with a focus on three areas: 1) multimodal bias reduction; 2) open-ended Conversational AI; 3) flexible/controllable text generation. I am very interested in understanding various human-centric properties of AI models, such as interpretability, generalization, causality, fairness and bias.
+Now I am working on supply chain mining with LLMs, KG, and LLM-based Agents. My previous research broadly lies at the intersection of Natural Language Processing and Computer Vision, with a focus on three areas: 1) multimodal bias reduction; 2) open-ended Conversational AI; 3) flexible/controllable text generation. I am very interested in understanding various human-centric properties of AI models, such as interpretability, generalization, causality, fairness and bias.
 
 I'm always open to discussion or collaboration. Please check my <a href="attaches/Zujie_Liang_CV.pdf" target="_blank">CV</a> for latest update and drop me an [E-mail](mailto:jokieleung@outlook.com) if you’re interested.
 
@@ -22,7 +22,7 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
 # News #
 
 
-
+- [09/2024] One paper is accepted by EMNLP 2024.
 - [05/2024] One paper is accepted by Findings of ACL 2024.
 - [08/2023] One paper is accepted by CIKM 2023.
 - [05/2023] One paper about Lottery Prompt Tuning is accepted by ACL 2023.
@@ -39,7 +39,9 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
 
 # Publications #
 
-
+- Segment+: Long Text Processing with Short-Context Language Models
+  Wei Shi, Shuang Li, Kerun Yu, Jinglei Chen, <u>**Zujie Liang**</u>, Xinhui Wu, Yuxi Qian, Feng Wei, Bo Zheng, Jiaqing Liang, Jiangjie Chen, Yanghua Xiao
+    **EMNLP 2024**. 
 
 - Teaching Large Language Models to Express Knowledge Boundary from Their Own Signals
   Lida Chen, <u>**Zujie Liang**</u>, Xintao Wang, Jiaqing Liang, Yanghua Xiao, Feng Wei, Jinglei Chen, Zhenghong Hao, Bing Han, Wei Wang
@@ -51,7 +53,7 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
 
 - CR-LLM: A Dataset and Optimization for Concept Reasoning of Large Language Models
   Nianqi Li, Jingping Liu, Sihang Jiang, Haiyun Jiang, Yanghua Xiao, Jiaqing Liang, <u>**Zujie Liang**</u>, Feng Wei, Jinglei Chen, Zhenghong Hao, Bing Han
-    **Findings of ACL 2024**. [paper (coming soon.)]
+    **ACL 2024**(Findings). [paper](https://aclanthology.org/2024.findings-acl.815.pdf)
 
 - Hierarchical Prompt Tuning for Few-Shot Multi-Task Learning
   Jingping Liu, Tao Chen, <u>**Zujie Liang**</u>, Haiyun Jiang, Yanghua Xiao, Feng Wei, Yuxi Qian, Zhenghong Hao, Bing Han.
