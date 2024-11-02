@@ -25,6 +25,7 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
 - [09/2024] One paper is accepted by EMNLP 2024.
 - [05/2024] One paper is accepted by Findings of ACL 2024.
 - [08/2023] One paper is accepted by CIKM 2023.
+- [06/2023] Hosted Ant FinTech AI Challenge (AFAC2023) at [TIANCHI](https://tianchi.aliyun.com/competition/entrance/532088/introduction).
 - [05/2023] One paper about Lottery Prompt Tuning is accepted by ACL 2023.
 - [07/2022] I start my journey at Ant Group.
 - [04/2022] One paper is accepted by ICMR 2022.
