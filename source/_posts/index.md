@@ -11,7 +11,7 @@ academia: true
 
 
 
-My name is Zujie Liang (梁祖杰). I am currently a researcher at [Ant Group](https://www.antgroup.com/en) (FinTech giant in China). Before that, I obtained my M.S. degree from [Sun Yat-Sen University (SYSU)](https://www.sysu.edu.cn) in 2022.
+My name is Zujie Liang (梁祖杰). I am currently a Senior R&D AI Engineer at [Ant Group](https://www.antgroup.com/en) (FinTech giant in China). Before that, I obtained my M.S. degree from [Sun Yat-Sen University (SYSU)](https://www.sysu.edu.cn) in 2022.
 
 Now I am working on supply chain mining with LLMs, KG, and LLM-based Agents. My previous research broadly lies at the intersection of Natural Language Processing and Computer Vision, with a focus on three areas: 1) multimodal bias reduction; 2) open-ended Conversational AI; 3) flexible/controllable text generation. I am very interested in understanding various human-centric properties of AI models, such as interpretability, generalization, causality, fairness and bias.
 
@@ -90,7 +90,7 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
 
 
 - Ant Group,
-  Researcher, July. 2022 - Present. 
+  Senior R&D AI Engineer, July. 2022 - Present. 
 - Microsoft,
   Research Intern, Oct. 2020 - June. 2021. 
 - Alibaba,
