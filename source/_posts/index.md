@@ -42,19 +42,19 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
 
 - Segment+: Long Text Processing with Short-Context Language Models
   Wei Shi, Shuang Li, Kerun Yu, Jinglei Chen, <u>**Zujie Liang**</u>, Xinhui Wu, Yuxi Qian, Feng Wei, Bo Zheng, Jiaqing Liang, Jiangjie Chen, Yanghua Xiao
-    **EMNLP 2024**. 
+    **EMNLP 2024**. [[paper]](https://arxiv.org/abs/2410.06519)
 
 - Teaching Large Language Models to Express Knowledge Boundary from Their Own Signals
   Lida Chen, <u>**Zujie Liang**</u>, Xintao Wang, Jiaqing Liang, Yanghua Xiao, Feng Wei, Jinglei Chen, Zhenghong Hao, Bing Han, Wei Wang
     **preprint**. [[paper]](https://arxiv.org/abs/2406.10881)
 
 - SLMRec: Empowering Small Language Models for Sequential Recommendation
-  Wujiang Xu, <u>**Zujie Liang**</u>, Jiaojiao Han, Xuying Ning, Wenfang Lin, Linxun Chen, Feng Wei, Yongfeng Zhang
+  Wujiang Xu, Qitian Wu, <u>**Zujie Liang**</u>, Jiaojiao Han, Xuying Ning, Yunxiao Shi, Wenfang Lin, Yongfeng Zhang
     **preprint**. [[paper]](https://arxiv.org/abs/2405.17890)
 
 - CR-LLM: A Dataset and Optimization for Concept Reasoning of Large Language Models
   Nianqi Li, Jingping Liu, Sihang Jiang, Haiyun Jiang, Yanghua Xiao, Jiaqing Liang, <u>**Zujie Liang**</u>, Feng Wei, Jinglei Chen, Zhenghong Hao, Bing Han
-    **ACL 2024**(Findings). [paper](https://aclanthology.org/2024.findings-acl.815.pdf)
+    **ACL 2024** (Findings). [[paper]](https://aclanthology.org/2024.findings-acl.815.pdf)
 
 - Hierarchical Prompt Tuning for Few-Shot Multi-Task Learning
   Jingping Liu, Tao Chen, <u>**Zujie Liang**</u>, Haiyun Jiang, Yanghua Xiao, Feng Wei, Yuxi Qian, Zhenghong Hao, Bing Han.
