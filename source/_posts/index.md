@@ -11,9 +11,9 @@ academia: true
 
 
 
-My name is Zujie Liang (梁祖杰). I am currently a Senior R&D AI Engineer at [Ant Group](https://www.antgroup.com/en) (FinTech giant in China). Before that, I obtained my M.S. degree from [Sun Yat-Sen University (SYSU)](https://www.sysu.edu.cn) in 2022.
+My name is Zujie Liang (梁祖杰). I am currently a Senior R&D AI Engineer at [Ant Group](https://www.antgroup.com/en) (FinTech giant in China). Now I am exploring leverage LLM-based Agents to improve credit business and risk management. My recent research focuses on LLM Agents, KG Reasoning, Hallucination Alleviation, PEFT.
 
-Now I am working on supply chain mining with LLMs, KG, and LLM-based Agents. My previous research broadly lies at the intersection of Natural Language Processing and Computer Vision, with a focus on three areas: 1) multimodal bias reduction; 2) open-ended Conversational AI; 3) flexible/controllable text generation. I am very interested in understanding various human-centric properties of AI models, such as interpretability, generalization, causality, fairness and bias.
+Before that, I obtained my M.S. degree from [Sun Yat-Sen University (SYSU)](https://www.sysu.edu.cn) in 2022. My previous research broadly lies at the intersection of Natural Language Processing and Computer Vision, with a focus on three areas: 1) multimodal bias reduction; 2) open-ended Conversational AI; 3) flexible/controllable text generation. I was very interested in understanding various human-centric properties of AI models, such as interpretability, generalization, causality, fairness and bias.
 
 I'm always open to discussion or collaboration. Please check my <a href="attaches/Zujie_Liang_CV.pdf" target="_blank">CV</a> for latest update and drop me an [E-mail](mailto:jokieleung@outlook.com) if you’re interested.
 
@@ -39,6 +39,18 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
 
 
 # Publications #
+
+- MultiLingPoT: Enhancing Mathematical Reasoning with Multilingual Program Fine-tuning
+  Nianqi Li, <u>**Zujie Liang**</u>, Siyu Yuan, Jiaqing Liang, Feng Wei, Yanghua Xiao
+    **preprint**. [[paper]](https://arxiv.org/abs/2412.12609)
+
+- Past Meets Present: Creating Historical Analogy with Large Language Models
+  Nianqi Li, Siyu Yuan, Jiangjie Chen, Jiaqing Liang, Feng Wei, <u>**Zujie Liang**</u>, Deqing Yang, Yanghua Xiao
+    **preprint**. [[paper]](https://arxiv.org/abs/2409.14820)    
+
+- QUILL: Quotation Generation Enhancement of Large Language Models
+  Jin Xiao, Bowei Zhang, Qianyu He, Jiaqing Liang, Feng Wei, Jinglei Chen, <u>**Zujie Liang**</u>, Deqing Yang, Yanghua Xiao
+    **preprint**. [[paper]](https://arxiv.org/abs/2411.03675)
 
 - Segment+: Long Text Processing with Short-Context Language Models
   Wei Shi, Shuang Li, Kerun Yu, Jinglei Chen, <u>**Zujie Liang**</u>, Xinhui Wu, Yuxi Qian, Feng Wei, Bo Zheng, Jiaqing Liang, Jiangjie Chen, Yanghua Xiao
