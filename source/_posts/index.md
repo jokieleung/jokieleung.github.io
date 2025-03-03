@@ -9,11 +9,9 @@ academia: true
 
 # Bio #
 
+My name is Zujie Liang (梁祖杰). I am currently a Senior R&D AI Engineer at [Ant Group](https://www.antgroup.com/en) (FinTech giant in China). My recent research focuses on LLM Agents, KG Reasoning, Hallucination Alleviation, PEFT. Now I am exploring leverage LLM-based Agents to improve credit business including User Understanding, Knowledge Graph, Recommender System and Risk Management. 
 
-
-My name is Zujie Liang (梁祖杰). I am currently a Senior R&D AI Engineer at [Ant Group](https://www.antgroup.com/en) (FinTech giant in China). Now I am exploring leverage LLM-based Agents to improve credit business and risk management. My recent research focuses on LLM Agents, KG Reasoning, Hallucination Alleviation, PEFT.
-
-Before that, I obtained my M.S. degree from [Sun Yat-Sen University (SYSU)](https://www.sysu.edu.cn) in 2022. My previous research broadly lies at the intersection of Natural Language Processing and Computer Vision, with a focus on three areas: 1) multimodal bias reduction; 2) open-ended Conversational AI; 3) flexible/controllable text generation. I was very interested in understanding various human-centric properties of AI models, such as interpretability, generalization, causality, fairness and bias.
+Before that, I obtained my M.S. degree from [Sun Yat-Sen University (SYSU)](https://www.sysu.edu.cn) in 2022. My previous research broadly lies at the intersection of Natural Language Processing and Computer Vision, with a focus on three areas: 1) multimodal bias reduction (Hallucination problem in VLMs); 2) open-ended Conversational AI; 3) flexible/controllable text generation. 
 
 I'm always open to discussion or collaboration. Please check my <a href="attaches/Zujie_Liang_CV.pdf" target="_blank">CV</a> for latest update and drop me an [E-mail](mailto:jokieleung@outlook.com) if you’re interested.
 
@@ -22,6 +20,7 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
 # News #
 
 
+- [01/2025] One paper is accepted by ICLR 2025.
 - [09/2024] One paper is accepted by EMNLP 2024.
 - [05/2024] One paper is accepted by Findings of ACL 2024.
 - [08/2023] One paper is accepted by CIKM 2023.
@@ -38,11 +37,39 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
 
 
 
+# Work Experiences #
+
+- Ant Group,
+  Senior R&D AI Engineer, July. 2022 - Present. 
+- Alibaba,
+  Ads Algorithm Intern, June. 2021 - Sept. 2021.   
+- Microsoft,
+  Research Intern, Oct. 2020 - June. 2021. 
+- Huawei,
+  SDE Intern, Jun. 2018 - Sept. 2018. 
+
+
 # Publications #
+
+- SLMRec: Empowering Small Language Models for Sequential Recommendation
+  Wujiang Xu, Qitian Wu, <u>**Zujie Liang**</u>, Jiaojiao Han, Xuying Ning, Yunxiao Shi, Wenfang Lin, Yongfeng Zhang
+    **ICLR 2025**. [[paper]](https://arxiv.org/abs/2405.17890)[[code]](https://github.com/WujiangXu/SLMRec)
+
+- I-MCTS: Enhancing Agentic AutoML via Introspective Monte Carlo Tree Search
+  <u>**Zujie Liang**</u>, Feng Wei, Wujiang Xu, Lin Chen, Yuxi Qian, Xinhui Wu
+    **preprint**. [[paper]](https://arxiv.org/abs/2502.14693)[[code]](https://github.com/jokieleung/I-MCTS)
+
+- A-MEM: Agentic Memory for LLM Agents
+  Wujiang Xu, <u>**Zujie Liang**</u>, Kai Mei, Hang Gao, Juntao Tan, Yongfeng Zhang
+    **preprint**. [[paper]](https://arxiv.org/abs/2502.12110)[[code]](https://github.com/WujiangXu/AgenticMemory)
+
+- InstructAgent: Building User Controllable Recommender via LLM Agent
+  Wujiang Xu, Yunxiao Shi, <u>**Zujie Liang**</u>, Xuying Ning, Kai Mei, Kun Wang, Xi Zhu, Min Xu, Yongfeng Zhang
+    **preprint**. [[paper]](https://arxiv.org/abs/2502.14662)[[code]](https://github.com/WujiangXu/iAgent)
 
 - MultiLingPoT: Enhancing Mathematical Reasoning with Multilingual Program Fine-tuning
   Nianqi Li, <u>**Zujie Liang**</u>, Siyu Yuan, Jiaqing Liang, Feng Wei, Yanghua Xiao
-    **preprint**. [[paper]](https://arxiv.org/abs/2412.12609)
+    **preprint**. [[paper]](https://arxiv.org/abs/2412.12609)[[code]](https://github.com/jokieleung/MultiLingPoT)
 
 - Past Meets Present: Creating Historical Analogy with Large Language Models
   Nianqi Li, Siyu Yuan, Jiangjie Chen, Jiaqing Liang, Feng Wei, <u>**Zujie Liang**</u>, Deqing Yang, Yanghua Xiao
@@ -59,10 +86,6 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
 - Teaching Large Language Models to Express Knowledge Boundary from Their Own Signals
   Lida Chen, <u>**Zujie Liang**</u>, Xintao Wang, Jiaqing Liang, Yanghua Xiao, Feng Wei, Jinglei Chen, Zhenghong Hao, Bing Han, Wei Wang
     **preprint**. [[paper]](https://arxiv.org/abs/2406.10881)
-
-- SLMRec: Empowering Small Language Models for Sequential Recommendation
-  Wujiang Xu, Qitian Wu, <u>**Zujie Liang**</u>, Jiaojiao Han, Xuying Ning, Yunxiao Shi, Wenfang Lin, Yongfeng Zhang
-    **preprint**. [[paper]](https://arxiv.org/abs/2405.17890)
 
 - CR-LLM: A Dataset and Optimization for Concept Reasoning of Large Language Models
   Nianqi Li, Jingping Liu, Sihang Jiang, Haiyun Jiang, Yanghua Xiao, Jiaqing Liang, <u>**Zujie Liang**</u>, Feng Wei, Jinglei Chen, Zhenghong Hao, Bing Han
@@ -97,32 +120,14 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
     **ICMR 2022**. [[paper]](attaches/TransPCC_ICMR22.pdf)[[code]](https://github.com/jokieleung/TransPCC)
 
 
-# Work Experiences #
-
-
-
-- Ant Group,
-  Senior R&D AI Engineer, July. 2022 - Present. 
-- Microsoft,
-  Research Intern, Oct. 2020 - June. 2021. 
-- Alibaba,
-  Ads Algorithm Intern, June. 2021 - Sept. 2021. 
-- Huawei,
-  Software Development Engineear Intern, Jun. 2018 - Sept. 2018. 
-
-
 
 # Academic Services #
 
-
-
-- Reviewer: ARR 2024, ICLR 2023, EACL 2023, ACL 2022, NLPCC 2022, NLPCC 2021, IJCAI 2021
+- Reviewer: ARR 2025, ARR 2024, ICLR 2023, EACL 2023, ACL 2022, NLPCC 2022, NLPCC 2021, IJCAI 2021
 
 
 
 # Miscellanous #
-
-
 
 - In my spare time, I maintain [Awesome-Visual-Question-Answering](https://github.com/jokieleung/awesome-visual-question-answering), which is a curated list of papers in the field of Visual QA (570+ stars now). 
 - Fan of basketball/NBA. I am impressed by the application progress of AI in [basketball](https://becominghuman.ai/5-game-changing-computer-vision-applications-in-sports-5f02ec35529b), such as the [HomeCourt](https://www.homecourt.ai/) APP.
