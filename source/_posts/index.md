@@ -31,6 +31,7 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
 
 # News #
 
+- [05/2025] 2 papers are accepted by ACL 2025.
 - [01/2025] One paper is accepted by ICLR 2025.
 - [09/2024] One paper is accepted by EMNLP 2024.
 - [05/2024] One paper is accepted by Findings of ACL 2024.
@@ -74,7 +75,7 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
 
 - **InstructAgent: Building User Controllable Recommender via LLM Agent**
     Wujiang Xu, Yunxiao Shi, **Zujie Liang**, Xuying Ning, Kai Mei, Kun Wang, Xi Zhu, Min Xu, Yongfeng Zhang
-    **preprint**. [[paper]](https://arxiv.org/abs/2502.14662)[[code]](https://github.com/WujiangXu/iAgent)
+    **ACL 2025** (Findings). [[paper]](https://arxiv.org/abs/2502.14662)[[code]](https://github.com/WujiangXu/iAgent)
     
 - **Maria: A Visual Experience Powered Conversational Agent**
     **Zujie Liang**, Huang Hu, Can Xu, Chongyang Tao, Xiubo Geng, Yining Chen, Fan Liang, Daxin Jiang.
@@ -131,7 +132,7 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
     
 - **Past Meets Present: Creating Historical Analogy with Large Language Models**
     Nianqi Li, Siyu Yuan, Jiangjie Chen, Jiaqing Liang, Feng Wei, **Zujie Liang**, Deqing Yang, Yanghua Xiao
-    **preprint**. [[paper]](https://arxiv.org/abs/2409.14820)
+    **ACL 2025**. [[paper]](https://arxiv.org/abs/2409.14820)
     
 - **QUILL: Quotation Generation Enhancement of Large Language Models**
     Jin Xiao, Bowei Zhang, Qianyu He, Jiaqing Liang, Feng Wei, Jinglei Chen, **Zujie Liang**, Deqing Yang, Yanghua Xiao
