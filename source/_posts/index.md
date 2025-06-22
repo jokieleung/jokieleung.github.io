@@ -94,7 +94,7 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
 
 - **Teaching Large Language Models to Express Knowledge Boundary from Their Own Signals**
     Lida Chen, **Zujie Liang**, Xintao Wang, Jiaqing Liang, Yanghua Xiao, Feng Wei, Jinglei Chen, Zhenghong Hao, Bing Han, Wei Wang
-    **preprint**. [[paper]](https://arxiv.org/abs/2406.10881)
+    **ACL 2025, KnowFM Workshop**. [[paper]](https://arxiv.org/abs/2406.10881)
     
 - **MultiLingPoT: Enhancing Mathematical Reasoning with Multilingual Program Fine-tuning**
     Nianqi Li, **Zujie Liang**, Siyu Yuan, Jiaqing Liang, Feng Wei, Yanghua Xiao
