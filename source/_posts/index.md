@@ -31,6 +31,8 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
 
 # News #
 
+- [08/2025] One paper is accepted by EMNLP 2025.
+- [07/2025] [Our paper](https://arxiv.org/abs/2409.14820) on LLM Historical Analogy received an [Outstanding Paper Award](https://2025.aclweb.org/program/awards/) (Top 0.3%) in ACL 2025, Congrats to Nianqi!
 - [05/2025] 2 papers are accepted by ACL 2025.
 - [01/2025] One paper is accepted by ICLR 2025.
 - [09/2024] One paper is accepted by EMNLP 2024.
@@ -67,13 +69,13 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
 
 - **A-MEM: Agentic Memory for LLM Agents**
     Wujiang Xu, **Zujie Liang**, Kai Mei, Hang Gao, Juntao Tan, Yongfeng Zhang
-    **preprint**. [[paper]](https://arxiv.org/abs/2502.12110)[[code]](https://github.com/WujiangXu/AgenticMemory)
+    **preprint**. [[paper]](https://arxiv.org/abs/2502.12110)[[code]](https://github.com/WujiangXu/A-mem)
 
 - **I-MCTS: Enhancing Agentic AutoML via Introspective Monte Carlo Tree Search**
     **Zujie Liang**, Feng Wei, Wujiang Xu, Lin Chen, Yuxi Qian, Xinhui Wu
     **preprint**. [[paper]](https://arxiv.org/abs/2502.14693)[[code]](https://github.com/jokieleung/I-MCTS)
 
-- **InstructAgent: Building User Controllable Recommender via LLM Agent**
+- **iAgent: LLM Agent as a Shield between User and Recommender Systems**
     Wujiang Xu, Yunxiao Shi, **Zujie Liang**, Xuying Ning, Kai Mei, Kun Wang, Xi Zhu, Min Xu, Yongfeng Zhang
     **ACL 2025** (Findings). [[paper]](https://arxiv.org/abs/2502.14662)[[code]](https://github.com/WujiangXu/iAgent)
     
@@ -98,7 +100,7 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
     
 - **MultiLingPoT: Enhancing Mathematical Reasoning with Multilingual Program Fine-tuning**
     Nianqi Li, **Zujie Liang**, Siyu Yuan, Jiaqing Liang, Feng Wei, Yanghua Xiao
-    **preprint**. [[paper]](https://arxiv.org/abs/2412.12609)[[code]](https://github.com/jokieleung/MultiLingPoT)
+    **EMNLP 2025** (Findings). [[paper]](https://arxiv.org/abs/2412.12609)[[code]](https://github.com/jokieleung/MultiLingPoT)
 
     
 ## Long-context LLM
@@ -132,7 +134,7 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
     
 - **Past Meets Present: Creating Historical Analogy with Large Language Models**
     Nianqi Li, Siyu Yuan, Jiangjie Chen, Jiaqing Liang, Feng Wei, **Zujie Liang**, Deqing Yang, Yanghua Xiao
-    **ACL 2025**. [[paper]](https://arxiv.org/abs/2409.14820)
+    **ACL 2025, oral**. [[paper]](https://arxiv.org/abs/2409.14820)[[Outstanding Paper Award]](https://2025.aclweb.org/program/awards/)(Top 0.3%)
     
 - **QUILL: Quotation Generation Enhancement of Large Language Models**
     Jin Xiao, Bowei Zhang, Qianyu He, Jiaqing Liang, Feng Wei, Jinglei Chen, **Zujie Liang**, Deqing Yang, Yanghua Xiao
@@ -158,6 +160,6 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
 
 # Miscellanous #
 
-- In my spare time, I maintain [Awesome-Visual-Question-Answering](https://github.com/jokieleung/awesome-visual-question-answering), which is a curated list of papers in the field of Visual QA (570+ stars now). 
+- In my spare time, I maintain [Awesome-Visual-Question-Answering](https://github.com/jokieleung/awesome-visual-question-answering), which is a curated list of papers in the field of Visual QA (660+ stars now). 
 - Fan of basketball/NBA. I am impressed by the application progress of AI in [basketball](https://becominghuman.ai/5-game-changing-computer-vision-applications-in-sports-5f02ec35529b), such as the [HomeCourt](https://www.homecourt.ai/) APP.
-- [Silicon Valley](https://www.imdb.com/title/tt2575988/) is the funniest TV series.
+- [Silicon Valley](https://www.imdb.com/title/tt2575988/) is the funniest TV series. [Black Mirror](https://www.imdb.com/title/tt2085059/) is fantastic too.
