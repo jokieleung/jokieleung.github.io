@@ -9,10 +9,8 @@ academia: true
 
 # Bio #
 
-My name is Zujie Liang (梁祖杰). I am currently a Senior R&D AI Engineer at [Ant Group](https://www.antgroup.com/en) (FinTech giant in China). Now I am building LLM-based Agents to improve credit business including User Understanding, Knowledge Graph, Recommender System, and Risk Management. I have published 10+ papers at the top international AI conferences such as ICLR, ACL, EMNLP, SIGIR, CIKM. Before that, I obtained my M.S. degree from [Sun Yat-Sen University (SYSU)](https://www.sysu.edu.cn) in 2022.
 
-My current research interests🔬 focus on:
-
+My name is Zujie Liang (梁祖杰). I am currently a Researcher at [ByteDance](https://www.bytedance.com/en/). Now I am working on Agentic post-training for Doubao. Before that, I obtained my M.S. degree from [Sun Yat-Sen University (SYSU)](https://www.sysu.edu.cn) in 2022. Overall, I focus on the following research topics🔬:
 - **LLM/VLM Agents**: Building useful LLM/VLM Agents that leverage agentic capabilities to solve real-world tasks, including Agentic Memory [[A-MEM]](https://arxiv.org/abs/2502.12110), Agentic AutoML [[I-MCTS]](https://arxiv.org/abs/2502.14693), Shopping Agents [[iAgent]](https://arxiv.org/abs/2502.14662)[[NTRD]](http://arxiv.org/abs/2109.12302), Multimodal Agents [[Maria]](https://arxiv.org/abs/2105.13073) (Probably one of the earliest attempts at VLM-based agents).
 
 - **LLM Post-training**: Exploring post-training, dedicated to efficient knowledge distillation [[SLMRec]](https://arxiv.org/abs/2405.17890), alleviating the hallucination [[CoKE]](https://arxiv.org/abs/2406.10881), and enhancing the reasoning capabilities [[MultiLingPoT]](https://arxiv.org/abs/2412.12609).
@@ -26,13 +24,14 @@ My current research interests🔬 focus on:
 - **Multimodal Hallucination**: Focusing on alleviating the multimodal hallucination caused by modality bias. [[LPF]](https://arxiv.org/abs/2105.14300)[[CL-VQA]](https://www.aclweb.org/anthology/2020.emnlp-main.265.pdf)
 
 
-I'm always open to discussion or collaboration. Please check my <a href="attaches/Zujie_Liang_CV.pdf" target="_blank">CV</a> for latest update and drop me an [E-mail](mailto:jokieleung@outlook.com) if you’re interested.
+I'm always open to discussion or collaboration. Please drop me an [E-mail](mailto:jokieleung@outlook.com) if you’re interested.
 
 
 # News #
 
-- [08/2025] One paper is accepted by EMNLP 2025.
-- [07/2025] [Our paper](https://arxiv.org/abs/2409.14820) on LLM Historical Analogy received an [Outstanding Paper Award](https://2025.aclweb.org/program/awards/) (Top 0.3%) in ACL 2025, Congrats to Nianqi!
+- [08/2025] [A-MEM](https://arxiv.org/abs/2502.12110) is accepted by NeurIPS 2025, Congrats to Wujiang!
+- [08/2025] [MultiLingPoT](https://arxiv.org/abs/2412.12609) is accepted by EMNLP 2025.
+- [07/2025] Our paper on [LLM Historical Analogy](https://arxiv.org/abs/2409.14820) received an [Outstanding Paper Award](https://2025.aclweb.org/program/awards/) (Top 0.3%) in ACL 2025, Congrats to Nianqi!
 - [05/2025] 2 papers are accepted by ACL 2025.
 - [01/2025] One paper is accepted by ICLR 2025.
 - [09/2024] One paper is accepted by EMNLP 2024.
@@ -53,8 +52,10 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
 
 # Work Experiences #
 
+- ByteDance,
+  Researcher, Aug. 2025 - Present. 
 - Ant Group,
-  Senior R&D AI Engineer, July. 2022 - Present. 
+  Senior Research Engineer, July. 2022 - Aug. 2025. 
 - Alibaba,
   Ads Algorithm Intern, June. 2021 - Sept. 2021.   
 - Microsoft,
@@ -69,7 +70,7 @@ I'm always open to discussion or collaboration. Please check my <a href="attache
 
 - **A-MEM: Agentic Memory for LLM Agents**
     Wujiang Xu, **Zujie Liang**, Kai Mei, Hang Gao, Juntao Tan, Yongfeng Zhang
-    **preprint**. [[paper]](https://arxiv.org/abs/2502.12110)[[code]](https://github.com/WujiangXu/A-mem)
+    **NeurIPS 2025**. [[paper]](https://arxiv.org/abs/2502.12110)[[code]](https://github.com/WujiangXu/A-mem)
 
 - **I-MCTS: Enhancing Agentic AutoML via Introspective Monte Carlo Tree Search**
     **Zujie Liang**, Feng Wei, Wujiang Xu, Lin Chen, Yuxi Qian, Xinhui Wu
