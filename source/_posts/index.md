@@ -29,8 +29,9 @@ I'm always open to discussion or collaboration. Please drop me an [E-mail](mailt
 
 # News #
 
-- [08/2025] [A-MEM](https://arxiv.org/abs/2502.12110) is accepted by NeurIPS 2025, Congrats to Wujiang!
-- [08/2025] [MultiLingPoT](https://arxiv.org/abs/2412.12609) is accepted by EMNLP 2025.
+- [01/2026] [I-MCTS](https://arxiv.org/abs/2502.14693) is accepted by Findings of EACL 2026.
+- [09/2025] [A-MEM](https://arxiv.org/abs/2502.12110) is accepted by NeurIPS 2025, Congrats to Wujiang!
+- [08/2025] [MultiLingPoT](https://arxiv.org/abs/2412.12609) is accepted by Findings of EMNLP 2025.
 - [07/2025] Our paper on [LLM Historical Analogy](https://arxiv.org/abs/2409.14820) received an [Outstanding Paper Award](https://2025.aclweb.org/program/awards/) (Top 0.3%) in ACL 2025, Congrats to Nianqi!
 - [05/2025] 2 papers are accepted by ACL 2025.
 - [01/2025] One paper is accepted by ICLR 2025.
@@ -39,7 +40,6 @@ I'm always open to discussion or collaboration. Please drop me an [E-mail](mailt
 - [08/2023] One paper is accepted by CIKM 2023.
 - [06/2023] Hosted Ant FinTech AI Challenge (AFAC2023) at [TIANCHI](https://tianchi.aliyun.com/competition/entrance/532088/introduction).
 - [05/2023] One paper about Lottery Prompt Tuning is accepted by ACL 2023.
-- [07/2022] I start my journey at Ant Group.
 - [04/2022] One paper is accepted by ICMR 2022.
 - [08/2021] One paper on recommender dialogue system is accepted by EMNLP 2021.
 - [06/2021] I am offered an ACM SIGIR 2021 Student Travel Grant.
@@ -74,7 +74,7 @@ I'm always open to discussion or collaboration. Please drop me an [E-mail](mailt
 
 - **I-MCTS: Enhancing Agentic AutoML via Introspective Monte Carlo Tree Search**
     **Zujie Liang**, Feng Wei, Wujiang Xu, Lin Chen, Yuxi Qian, Xinhui Wu
-    **preprint**. [[paper]](https://arxiv.org/abs/2502.14693)[[code]](https://github.com/jokieleung/I-MCTS)
+    **EACL 2026** (Findings). [[paper]](https://arxiv.org/abs/2502.14693)[[code]](https://github.com/jokieleung/I-MCTS)
 
 - **iAgent: LLM Agent as a Shield between User and Recommender Systems**
     Wujiang Xu, Yunxiao Shi, **Zujie Liang**, Xuying Ning, Kai Mei, Kun Wang, Xi Zhu, Min Xu, Yongfeng Zhang
