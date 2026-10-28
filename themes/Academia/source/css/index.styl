@@ -1,7 +1,9 @@
 @import 'user'
 @import '_highlight/highlight.styl'
 
-$font-family = "Times New Roman", FangSong, STFangsong, sans-serif;
+// Prefer macOS Palatino; P052 provides a similar face on Linux.
+// Chinese: system sans-serif fallback, as on Wujiang Xu's site.
+$font-family = Palatino, "Palatino Linotype", "Book Antiqua", "P052", "Times New Roman", "Liberation Serif", "DejaVu Serif", sans-serif;
 $theme-blue = #1353d7;
 $theme-dark-blue = #096494;
 $theme-red = #c62641;
